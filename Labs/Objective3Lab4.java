@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Objective3Lab4{
   public static void main(String[] args){
-    String firstName, lastName;
+    String firstName;
+    String lastName;
     int age;
 
     Scanner input = new Scanner(System.in);
