@@ -21,6 +21,7 @@ public class Objective6Lab5 {
         System.out.println("Apple, Banana, Coconut");
       }
       if (selection == 3){
+        System.out.println("Goodbye");
         break;
       }
     }
